@@ -1,0 +1,14 @@
+D:\DotNetClassAssign\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.exe
+D:\DotNetClassAssign\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.deps.json
+D:\DotNetClassAssign\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.runtimeconfig.json
+D:\DotNetClassAssign\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.dll
+D:\DotNetClassAssign\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.pdb
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.AssemblyInfoInputs.cache
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.AssemblyInfo.cs
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.csproj.CoreCompileInputs.cache
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.dll
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\refint\ConsoleApp_Question3.dll
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.pdb
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.genruntimeconfig.cache
+D:\DotNetClassAssign\ConsoleApp_Question3\obj\Debug\net8.0\ref\ConsoleApp_Question3.dll

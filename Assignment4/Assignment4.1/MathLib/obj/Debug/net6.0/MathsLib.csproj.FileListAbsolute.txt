@@ -1,0 +1,11 @@
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\bin\Debug\net6.0\MathsLib.deps.json
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\bin\Debug\net6.0\MathsLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\bin\Debug\net6.0\MathsLib.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\MathsLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\MathsLib.AssemblyInfoInputs.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\MathsLib.AssemblyInfo.cs
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\MathsLib.csproj.CoreCompileInputs.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\MathsLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\refint\MathsLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\MathsLib.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\ClassLibrary1\obj\Debug\net6.0\ref\MathsLib.dll

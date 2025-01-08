@@ -1,0 +1,11 @@
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\bin\Debug\HRMS.exe.config
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\bin\Debug\HRMS.exe
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\bin\Debug\HRMS.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\bin\Debug\EmployeeLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\bin\Debug\EmployeeLib.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\bin\Debug\EmployeeLib.dll.config
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\obj\Debug\HRMS.csproj.Up2Date
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\obj\Debug\HRMS.exe
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\HRMS\obj\Debug\HRMS.pdb

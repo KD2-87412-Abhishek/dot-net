@@ -1,0 +1,7 @@
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\bin\Debug\EmployeeLib.dll.config
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\bin\Debug\EmployeeLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\bin\Debug\EmployeeLib.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\obj\Debug\EmployeeLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\EmployeeLib\obj\Debug\EmployeeLib.pdb
